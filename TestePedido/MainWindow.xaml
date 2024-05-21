@@ -1,0 +1,11 @@
+﻿<Window x:Class="MarryMe.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStartupLocation="CenterScreen"
+        Title="Pedido de Casamento" Height="450" Width="800" Cursor="">
+    <Grid x:Name="MainGrid" Background="LightPink">
+        <TextBlock Text="Quer casar comigo?" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,50,0,0"/>
+        <Button x:Name="YesButton" Content="Sim" FontSize="20" Width="100" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="200,150,0,0" Click="YesButton_Click"/>
+        <Button x:Name="NoButton" Content="Não" FontSize="20" Width="100" Height="50" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="500,150,0,0" MouseEnter="NoButton_MouseEnter" Cursor="Hand" IsTabStop="False"/>
+    </Grid>
+</Window>

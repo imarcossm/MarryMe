@@ -1,0 +1,53 @@
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\bin\Debug\net8.0-windows\MarryMe.exe
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\bin\Debug\net8.0-windows\MarryMe.deps.json
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\bin\Debug\net8.0-windows\MarryMe.runtimeconfig.json
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\bin\Debug\net8.0-windows\MarryMe.dll
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\bin\Debug\net8.0-windows\MarryMe.pdb
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\MarryMe.csproj.AssemblyReference.cache
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\App.g.cs
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\MarryMe_MarkupCompile.cache
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\MarryMe_MarkupCompile.lref
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\App.baml
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\MarryMe.g.resources
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\MarryMe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\MarryMe.AssemblyInfoInputs.cache
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\MarryMe.AssemblyInfo.cs
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\MarryMe.csproj.CoreCompileInputs.cache
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\MarryMe.csproj.Up2Date
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\MarryMe.dll
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\refint\MarryMe.dll
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\MarryMe.pdb
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\MarryMe.genruntimeconfig.cache
+D:\Meus atalhos\Curso WPF\TestePedido\TestePedido\obj\Debug\net8.0-windows\ref\MarryMe.dll
+D:\Projetos\MarryMe\TestePedido\bin\Debug\net8.0-windows\MarryMe.exe
+D:\Projetos\MarryMe\TestePedido\bin\Debug\net8.0-windows\MarryMe.deps.json
+D:\Projetos\MarryMe\TestePedido\bin\Debug\net8.0-windows\MarryMe.runtimeconfig.json
+D:\Projetos\MarryMe\TestePedido\bin\Debug\net8.0-windows\MarryMe.dll
+D:\Projetos\MarryMe\TestePedido\bin\Debug\net8.0-windows\MarryMe.pdb
+D:\Projetos\MarryMe\TestePedido\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\Projetos\MarryMe\TestePedido\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Projetos\MarryMe\TestePedido\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MarryMe.csproj.AssemblyReference.cache
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\App.g.cs
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MarryMe_MarkupCompile.cache
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MarryMe_MarkupCompile.lref
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\App.baml
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MarryMe.g.resources
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MarryMe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MarryMe.AssemblyInfoInputs.cache
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MarryMe.AssemblyInfo.cs
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MarryMe.csproj.CoreCompileInputs.cache
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MarryMe.csproj.Up2Date
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MarryMe.dll
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\refint\MarryMe.dll
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MarryMe.pdb
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MarryMe.genruntimeconfig.cache
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\ref\MarryMe.dll
+D:\Projetos\MarryMe\TestePedido\obj\Debug\net8.0-windows\MarryMe_Content.g.cs
